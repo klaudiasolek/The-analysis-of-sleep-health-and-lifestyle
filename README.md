@@ -1,5 +1,6 @@
 # The-analysis-of-sleep-health-and-lifestyle
 ![Projekt bez nazwy](https://github.com/klaudiasolek/The-analysis-of-sleep-health-and-lifestyle/assets/146526586/059ac24f-b0cb-4664-8ea0-fafeca8e0b70)
+![image](https://github.com/klaudiasolek/The-analysis-of-sleep-health-and-lifestyle/assets/146526586/8bddf4bb-fa56-4881-9418-27f009e78dfc)
 
 In today's world, health and quality of life are a priority for many people. The project focuses on key aspects of health and their impact on daily life. Special attention is given to the influence of stress, sleep quality, a healthy lifestyle, and physical activity. The aim of this project is to emphasize and demonstrate the significance of these factors. In the analyzed dataset, genders have nearly equal proportions with 50.53% being men and 49.47% women. It was also noted that 41.45% of the analyzed individuals had sleep disorders. Most of the individuals included in the analysis had a normal Body Mass Index (BMI).
 
